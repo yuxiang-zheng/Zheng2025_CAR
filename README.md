@@ -1,1 +1,1 @@
-# Zheng2025_CAR
+This dataset provides the predicted stock market valuation of patents based solely on patent texts, specifically the "Brief Description" section, using a BERT model in my paper "Can Investors Learn from Patent Documents? — Evidence from Textual Analysis". For detailed information about the methodology and findings, please refer to the paper. You are welcome to cite and use this dataset in your research.
